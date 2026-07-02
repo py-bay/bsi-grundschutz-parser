@@ -1,0 +1,8 @@
+# Downloaded BSI PDFs and generated artifacts (regenerated on each run).
+data/pdfs/
+output/
+
+# Python
+.venv/
+__pycache__/
+*.egg-info/
